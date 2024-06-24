@@ -14,5 +14,5 @@
   <li>Programmed near-realtime 3D light transfer simulation on the CPU in Java</li>
   <li>Got a 104% in my highschool's CS II class after being allowed to skip ahead into it</li>
   <li>Top 85% on LeetCode as a 16yo</li>
-  <li>Independently researching representing & generalizing approximations as infinite series and integrals</li>
+  <li>Independently researching representing & generalizing function approximations as infinite series and integrals</li>
 </ul>
