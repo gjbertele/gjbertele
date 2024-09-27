@@ -2,7 +2,7 @@
 # <h2>About Me</h2>
 <p>I'm a sophomore in highschool, interested in Math & CS.</p>
 <ul>
-  <li>4 years of self-taught CS experience</li>
+  <li>5 years of self-taught CS experience</li>
   <ul><li>JS, Java, HTML, CSS, with experience in Node.js, git, and working on VPSs</li></ul>
   <li>Self-taught math</li>
   <ul><li>Multivariable Calculus, Number Theory, Linear Algebra, basic group theory, and I'm currently taking Real Analysis</li></ul>
